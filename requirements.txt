@@ -1,0 +1,8 @@
+robotframework == 3.1.2
+robotframework-databaselibrary == 1.2.4
+robotframework-pabot == 1.0.0
+robotframework-requests == 0.6.3
+robotframework-ride == 1.7.4.1
+robotframework-screencaplibrary == 1.4.0
+robotframework-seleniumlibrary == 4.1.0
+PyMySQL == 0.10.1
